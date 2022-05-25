@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIEExamples", "APIEExamples\APIEExamples.csproj", "{BCEDDD46-EB1A-45C4-90E7-669FF4424A95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCEDDD46-EB1A-45C4-90E7-669FF4424A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEDDD46-EB1A-45C4-90E7-669FF4424A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEDDD46-EB1A-45C4-90E7-669FF4424A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEDDD46-EB1A-45C4-90E7-669FF4424A95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8897828-1BC1-4563-B534-FE6C59429909}
+	EndGlobalSection
+EndGlobal
